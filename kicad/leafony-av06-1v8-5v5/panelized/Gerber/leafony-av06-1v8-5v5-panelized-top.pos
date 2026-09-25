@@ -1,0 +1,22 @@
+### Footprint positions - created on 2025-03-25T12:28:41+0900 ###
+### Printed by KiCad version 8.0.8
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                         Package                          PosX       PosY       Rot  Side
+CN1       Leafony_Bus                 CN_F29                        87.4250   -15.4750    0.0000  top
+CN1       Leafony_Bus                 CN_F29                        12.4250   -15.4750    0.0000  top
+CN1       Leafony_Bus                 CN_F29                        37.4250   -15.4750    0.0000  top
+CN1       Leafony_Bus                 CN_F29                        12.4250   -71.4750    0.0000  top
+CN1       Leafony_Bus                 CN_F29                        12.4250   -43.4750    0.0000  top
+CN1       Leafony_Bus                 CN_F29                        62.4250   -15.4750    0.0000  top
+CN1       Leafony_Bus                 CN_F29                        62.4250   -43.4750    0.0000  top
+CN1       Leafony_Bus                 CN_F29                        37.4250   -43.4750    0.0000  top
+CN1       Leafony_Bus                 CN_F29                        37.4250   -71.4750    0.0000  top
+CN1       Leafony_Bus                 CN_F29                        87.4250   -71.4750    0.0000  top
+CN1       Leafony_Bus                 CN_F29                        87.4250   -43.4750    0.0000  top
+CN1       Leafony_Bus                 CN_F29                        62.4250   -71.4750    0.0000  top
+REF**     Fiducial_0.75mm_Mask2.25mm  Fiducial_0.75mm_Mask2.25mm    10.0000    -5.0000    0.0000  top
+REF**     Fiducial_0.75mm_Mask2.25mm  Fiducial_0.75mm_Mask2.25mm    27.0000   -95.0000    0.0000  top
+REF**     Fiducial_0.75mm_Mask2.25mm  Fiducial_0.75mm_Mask2.25mm    82.5000   -95.0000  180.0000  top
+REF**     Fiducial_0.75mm_Mask2.25mm  Fiducial_0.75mm_Mask2.25mm   102.0000    -5.0000  180.0000  top
+## End

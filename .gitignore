@@ -1,0 +1,31 @@
+# macOS / Windows
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# KiCad: ローカル設定・ロック・キャッシュ
+*.kicad_prl
+~*.lck
+fp-info-cache
+
+# KiCad: 自動保存・バックアップ
+*-backups/
+_autosave-*
+*-save.pro
+*-save.kicad_pcb
+*-save.kicad_sch
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+*.000
+*.bak
+*.bck
+
+# エディターの一時ファイル
+*~
+*.tmp
+*.swp
+*.swo
+
+# 設計データ、ライブラリ、3Dモデル、Gerber、ドリル、部品表は管理対象

@@ -5,7 +5,7 @@
 	(uuid "0101cbd8-01f3-48ad-9c47-76e398222ae4")
 	(paper "A4")
 	(title_block
-		(title "Leafony AV04 2-4.5V Leaf")
+		(title "Leafony AV06 1.8V-5.5V Leaf")
 		(date "2024-07-26")
 		(rev "v1.0")
 		(company "Leafony Systems Inc.")

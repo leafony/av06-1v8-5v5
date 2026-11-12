@@ -29,3 +29,8 @@ _autosave-*
 *.swo
 
 # 設計データ、ライブラリ、3Dモデル、Gerber、ドリル、部品表は管理対象
+
+# Keep the generated PDFs; ignore temporary export files.
+/output/*
+!/output/schematic.pdf
+!/output/layout.pdf
